@@ -52,7 +52,7 @@ button:hover {
 .home-button {
     margin-top: 20px;
     padding: 10px 20px;
-    background-color: #2ecc71;
+    background-color: #00d4ca;
     color: white;
     border: none;
     border-radius: 5px;
@@ -63,5 +63,5 @@ button:hover {
 }
 
 .home-button:hover {
-    background-color: #27ae60;
+    background-color: #0be62f;
 }
